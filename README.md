@@ -1,4 +1,4 @@
-AWAY FROM CODING RIGHT NOW
+AWAY FROM CODING
 
 
 - 🌱 I have learned frontend developing(HTML/CSS/JS React)!
